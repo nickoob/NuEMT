@@ -1,0 +1,7 @@
+ray==1.2.0
+scipy=1.5.4
+grpcio==1.36.0
+gym==0.18.3
+mujoco-py==2.0.2.0
+numpy==1.19.5
+protobuf==3.15.3
