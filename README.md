@@ -2,7 +2,7 @@
 
 <h3>Welcome to the implementation for NuEMT algorithm for reinforcement learning</h3>
 
-<h4>NuEMT is a new EMT algorithm that builds on the [OpenAI-ES algorithm](https://arxiv.org/pdf/1703.03864.pdf) for continuous control tasks, based on the paper "[Multitask Neuroevolution for Reinforcement Learning with Long and Short Episodes](https://ieeexplore.ieee.org/document/9950429)" </h4>
+NuEMT is a new EMT algorithm that builds on the [OpenAI-ES algorithm](https://arxiv.org/pdf/1703.03864.pdf) for continuous control tasks, based on the paper "[Multitask Neuroevolution for Reinforcement Learning with Long and Short Episodes](https://ieeexplore.ieee.org/document/9950429)"
 
 The NuEMT implementation relies on the Ray library (1.2.0) for parallel computing and follows the implementation style in this [repo](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links).
 
